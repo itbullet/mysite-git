@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="ws-ctrl-twist" horiz-adv-x="1000" >
+<font-face font-family="ws-ctrl-twist" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="glyph" unicode="&#xe800;" d="m486 376q14-10 14-26 0-14-14-24l-428-266q-24-16-41-6t-17 40v514q0 30 17 40t41-6z" horiz-adv-x="500" />
+<glyph glyph-name="glyph-1" unicode="&#xe801;" d="m440 700q90 0 90-64v-570q0-66-90-66t-90 66v570q0 64 90 64z m-350 0q90 0 90-64v-570q0-66-90-66t-90 66v570q0 64 90 64z" horiz-adv-x="531.3" />
+<glyph glyph-name="glyph-2" unicode="&#xe802;" d="m0 353l391 391q18 18 43 18 24 0 43-18 18-18 18-44t-18-43l-304-304 304-305q18-17 18-43t-18-43q-18-18-43-18t-43 18z" horiz-adv-x="496.1" />
+<glyph glyph-name="glyph-3" unicode="&#xe803;" d="m0 0q0 25 18 43l305 304-305 304q-18 18-18 44t18 43 44 18 43-18l390-391-390-391q-19-18-43-18t-44 18q-18 18-18 44z" horiz-adv-x="496.1" />
+</font>
+</defs>
+</svg>

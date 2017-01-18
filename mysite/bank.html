@@ -1,0 +1,16 @@
+<meta charset="utf-8">
+<script type="text/javascript">
+	var deposit = parseInt(prompt('Введите сумму вклада'));
+	var interest = parseInt(prompt('Введите процент по вкладу'));
+	var initialDeposit = deposit;
+	var profit;
+	var result = "Изменение размера вклада по годам\n";
+
+	for (var i = 1; i <= 10; i++) {
+		deposit = deposit * interest / 100 + deposit;
+		result += i +  "год: " + deposit.toFixed(2) + "рублей.\n";
+	}
+	alert(result);
+	profit = deposit - initialDeposit;
+	alert('Общая прибыль составит ' + profit.toFixed(2));
+</script>
